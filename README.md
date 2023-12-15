@@ -108,7 +108,7 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 
 <img width="960" alt="Screenshot 2023-12-13 020707" src="https://github.com/eyalhecht/ASCII-Art/assets/62703517/3d3bca2d-1cab-466d-9f74-1d967a85c8ac">
 
-### Press Download, Et voilà! Here is your [ascii Image](https://github.com/eyalhecht/ASCII-Artbackup/blob/main/src/assets/asciiImage%20(59).html) 🖼️ &darr;
+### Press Download, Et voilà! Here is your [ascii Image](https://github.com/eyalhecht/ASCII-Art/blob/main/src/assets/asciiImage%20(59).html) 🖼️ &darr;
 
 ### (*You might need to scroll to the center of the file in order to see the image)
 
