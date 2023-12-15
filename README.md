@@ -9,7 +9,7 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 ### Client-Side (React/TypeScript) 🌐 
 
 - **User Interface:** Web-based interface created using React and TypeScript for:
-    - 🖼️ **Image Upload & Processing:** Upload images for conversion into ASCII characters representaion.
+    - 🖼️ **Image Upload & Processing:** Upload images for conversion into ASCII characters representation.
     - 🎨 **Customization Options:** Customize resolution and character set to generate varied ASCII outputs.
     - 📥 **Output:** Obtain ASCII representation of uploaded images in downloadable HTML format.
     - 🌀 **Process Overview:** Additionally, a brief explanation of the process along with examples of ASCII images is provided in the interface.
@@ -32,33 +32,25 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 
 
 
-## How to Use
-
-### Server Setup 🏗️
-
-1. 🌐 Clone the repository and navigate to the server directory.
-2. 🚀 Run the Spring server application.
+## Running the Project 🏃‍♂️
 
 ### Client Interface 🖥️
 
 1. 🛠️ Install necessary npm dependencies (`package.json`).
 2. 🚀 Start the React application.
 
-## Running the Project 🏃‍♂️
+### Server Setup 🏗️
 
-### Server 🖥️
+1. 🌐 Clone the repository and navigate to the server directory.
+2. 🛠️ Ensure Java and Spring environments are set up.
+3. 📂 Define `UPLOAD_DIRECTORY` for file storage.
+4. 🚀 Run the Spring server application.
+     
 
-- Ensure Java and Spring environments are set up.
-- Define `UPLOAD_DIRECTORY` for file storage.
-- 🚨 **Please note that certain sections of the server code have been omitted intentionally to safeguard against unauthorized use. Consequently, it is currently not feasible to run the server using the provided code. If you wish to require access to the complete code, kindly reach out to me via email at eyalhe3@gmail.com.** 📧
+- 🚨 **Please note that certain sections of the server code have been omitted intentionally to safeguard against unauthorized use. Consequently, it is currently not feasible to run the server using the provided code. If you wish to require access to the complete code, kindly reach out to me via email at eyalhe3@gmail.com** 📧
 
 
-### Client 🌐
-
-- Configure Node.js and npm for React and TypeScript.
-- Utilize the React app for image uploads and ASCII downloads.
-
-## Server - Usage 🎨
+## Server - Usage 📋
 
 ### File Upload Endpoint 📤
 
@@ -71,7 +63,7 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 
 - **Route:** `GET /download/{chars}/{res}`
 - **Description:** Retrieves ASCII art of the uploaded image, based on provided characters and resolution.
-- **Parameters:** `{chars}` (String), `{res}` (int)
+- **Parameters:** `{chars}` (`string[]` ), `{res}` (`int`)
 - **Returns:** `ResponseEntity<Resource>`
 
 
