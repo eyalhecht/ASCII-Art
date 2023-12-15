@@ -50,6 +50,8 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 
 - Ensure Java and Spring environments are set up.
 - Define `UPLOAD_DIRECTORY` for file storage.
+- 🚨 **Please note that certain sections of the server code have been omitted intentionally to safeguard against unauthorized use. Consequently, it is currently not feasible to run the server using the provided code. If you wish to require access to the complete code, kindly reach out to me via email at eyalhe3@gmail.com.** 📧
+
 
 ### Client 🌐
 
