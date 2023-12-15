@@ -1,0 +1,50 @@
+
+.container {
+    text-align: center;
+}
+
+.resolution {
+    margin-bottom: 10px;
+}
+
+.image {
+    transition: opacity 0.5s ease-in-out;
+    width: 290px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.upload-buttons button {
+    margin: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: lightblue;
+    color: black;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.checkbox {
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+
+
+}
+
+.download-buttons button {
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    color: black;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.text {
+    margin-left: 200px;
+    margin-right: 200px;
+}

@@ -1,0 +1,37 @@
+.screen3 {
+    text-align: left;
+    flex-direction: column;
+    padding: 90px;
+    min-height: 100vh;
+    display: flex;
+    background: linear-gradient(135deg, lightblue, lightcyan, lightskyblue);
+    justify-content: center;
+    align-items: stretch;
+}
+
+.screen3 .main-heading {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.screen3 .sub-heading {
+    font-size: 1.8em;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.screen3 .step {
+    margin-bottom: 30px;
+}
+
+.screen3 h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.screen3 p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}

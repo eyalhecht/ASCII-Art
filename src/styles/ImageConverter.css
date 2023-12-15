@@ -1,0 +1,44 @@
+.screen4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 100px;
+    background: linear-gradient(135deg, lightblue, lightcyan, lightskyblue);
+    justify-content: center;
+}
+
+.settings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.upload-section {
+    margin-bottom: 20px;
+    padding-left: 60px;
+}
+
+.upload-buttons {
+    margin: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: lightblue;
+    color: black;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+    padding: 10px 20px;
+    display: flex;
+}
+
+.upload-buttons {
+    display: none;
+}
+
+.container {
+    margin: 10px;
+}
+

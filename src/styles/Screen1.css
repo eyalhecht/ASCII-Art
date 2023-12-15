@@ -1,0 +1,29 @@
+.screen1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, lightblue, lightcyan, lightskyblue);
+    min-height: 100vh;
+    text-align: center;
+}
+
+.screen1 h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.screen1 h2 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
+
+.screen1 .text {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.screen1 .next-button {
+    margin-top: 20px;
+}

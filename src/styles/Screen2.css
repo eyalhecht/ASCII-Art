@@ -1,0 +1,22 @@
+.screen2 {
+    text-align: left;
+    flex-direction: column;
+    display: flex;
+    background: linear-gradient(135deg, lightblue, lightcyan, lightskyblue);
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.screen2 h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.screen2 p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    padding-right: 120px;
+    padding-left: 120px;
+}
+
