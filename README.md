@@ -113,7 +113,7 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 
 ### Press Download, Et voilà! Here is your [ascii Image](https://github.com/eyalhecht/ASCII-Art/blob/main/src/assets/asciiImage%20(59).html) 🖼️ &darr;
 
-### (*You might need to scroll to the center of the file in order to see the image)
+### ( *You might need to scroll to the center of the file in order to see the image)
 
 
 ```html
