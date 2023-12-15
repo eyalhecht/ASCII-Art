@@ -96,6 +96,8 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 
 ### Brief Explanation:
 
+![Alt text](src/assets/Screenshot 2023-12-13 020307.png)
+
 <img width="960" alt="Screenshot 2023-12-13 020307" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/33634e98-9881-4b89-a3b2-a60d588898ad">
 <img width="960" alt="Screenshot 2023-12-13 020540" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/185cbb95-e3f1-4892-89a0-7e57974d443d">
 <img width="960" alt="Screenshot 2023-12-13 020607" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/2b277909-c124-425a-99fd-536e8ac7c05b">
