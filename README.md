@@ -97,18 +97,19 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
 ### Brief Explanation:
 
 ![Alt text](src/assets/Screenshot020307.png)
+![Alt text](src/assets/Screenshot020540.png)
+![Alt text](src/assets/Screenshot020607.png)
 
-<img width="960" alt="Screenshot 2023-12-13 020307" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/33634e98-9881-4b89-a3b2-a60d588898ad">
-<img width="960" alt="Screenshot 2023-12-13 020540" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/185cbb95-e3f1-4892-89a0-7e57974d443d">
-<img width="960" alt="Screenshot 2023-12-13 020607" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/2b277909-c124-425a-99fd-536e8ac7c05b">
 
 ### Upload Image:
 
-<img width="960" alt="Screenshot 2023-12-13 020630" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/baa0149d-bac7-45d2-8c6b-b99ed9574bba">
+![Alt text](src/assets/Screenshot020630.png)
+
 
 ### Specify resolution and characters to create the ASCII image from, and press Download:
 
-<img width="960" alt="Screenshot 2023-12-13 020707" src="https://github.com/eyalhecht/ASCII-Art/src/assets/62703517/3d3bca2d-1cab-466d-9f74-1d967a85c8ac">
+![Alt text](src/assets/Screenshot020707.png)
+
 
 ### Press Download, Et voilà! Here is your [ascii Image](https://github.com/eyalhecht/ASCII-Art/blob/main/src/assets/asciiImage%20(59).html) 🖼️ &darr;
 
