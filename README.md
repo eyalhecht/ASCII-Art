@@ -30,7 +30,21 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
     - 📥 Returning an image its maximum ASCII Art resolution.
     - 🖼️ Given an image, generating its ASCII representation based on specific character sets and resolution.
 
+## How the process works? 🛠️
+#### Stage 1: Image Preprocessing
+- **Resizing:** The image is resized by extending the width and height to the nearest power of 2. For example, if the original image size is 14x30, it is extended to 16x32 by adding blank pixels.
+  Ensuring the resized image is important for the next stages.
 
+#### Stage 2: Conversion to Sub-Images
+- **Resolution Adjustment:** The image is divided into smaller sub-images based on the desired resolution. More sub-images result in higher resolution and better representation of the converted ASCII image.
+
+#### Stage 3: Determining ASCII Character Brightness
+- **Character Brightness Calculation:** The algorithm computes the brightness of each ASCII character so each character obtains a brightness value between 0 and 1.  Then the algorithm normalizes the brightness values through linear stretching.
+  This process prevents scenarios where the same character appears for every pixel in an image with similar shades. Linear stretching sharpens the brightness differences between different characters, avoiding such situations
+
+#### Stage 4: Normalization and Mapping Sub-Images to ASCII Characters
+- **Brightness Matching:** For each sub-image brightness value, the algorithm finds the closest matching ASCII character with similar brightness.
+- **Image Reconstruction:** The final ASCII image is constructed by replacing each sub-image with the corresponding ASCII character that best matches its brightness.
 
 ## Running the Project 🏃‍♂️
 
