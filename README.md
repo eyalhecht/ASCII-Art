@@ -36,7 +36,7 @@ This repository contains a project utilizing **Java**, **Spring**, **React**, an
   Ensuring the resized image is important for the next stages.
 
 #### Stage 2: Conversion to Sub-Images
-- **Resolution Adjustment:** The image is divided into smaller sub-images based on the desired resolution. More sub-images result in higher resolution and better representation of the converted ASCII image. Then, the algorithm calculates the brightness of each sub-image
+- **Resolution Adjustment:** The image is divided into smaller sub-images based on the desired resolution. More sub-images result in higher resolution and better representation of the converted ASCII image. Then, the algorithm calculates the brightness of each sub-image.
 
 #### Stage 3: Determining ASCII Character Brightness
 - **Character Brightness Calculation:** The algorithm computes the brightness of each ASCII character so each character obtains a brightness value between 0 and 1.  Then the algorithm normalizes the brightness values through linear stretching.
